@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'export_reports' => 'تصدير التقارير',
+    'products_report' => 'تقرير المنتجات',
+    'orders_report' => 'تقرير الطلبات',
+    'purchases_report' => 'تقرير المشتريات',
+    'customers_report' => 'تقرير العملاء',
+    'total_customers' => 'إجمالي العملاء',
+    'total_products' => 'إجمالي المنتجات',
+    'revenue' => 'الإيرادات',
+    'sold_products' => 'المنتجات المباعة',
+    'total_active_orders' => 'إجمالي الطلبات النشطة',
+    'orders_delivered' => 'الطلبات المسلمة',
+    'orders_processing' => 'الطلبات قيد المعالجة',
+    'cancelled_orders' => 'الطلبات الملغاة',
+    'paid_orders' => 'الطلبات المدفوعة',
+    'orders_on_the_way' => 'الطلبات في الطريق',
+     'shipped_orders' => 'الطلبات المشحونة',
+    'doughnut_chart' => 'مخطط دائري',
+    'bar_chart' => 'مخطط شريطي',
+    'top_selling_products' => 'أفضل المنتجات مبيعًا',
+    'product' => 'المنتج',
+    'sold' => 'مباع',
+     'status' => 'الحالة',
+    'selling' => 'بيع',
+    'top_sellers' => 'أفضل المشترين' ,
+    'seller' => 'مشتري',
+    'orders' => 'طلبات',
+    'top_seller' => 'أفضل  مشتري',
+
+];

@@ -1,0 +1,21 @@
+<?php
+return [
+    'Contact Management' => 'Contact Management',
+    'Add Contact' => 'Add Contact',
+    'ID' => 'ID',
+    'Email' => 'Email',
+    'Phone' => 'Phone',
+    'Message' => 'Message',
+    'Localisation' => 'Localisation',
+    'Actions' => 'Actions',
+    'Add New Contact' => 'Add New Contact',
+    'Close' => 'Close',
+    'Save Contact' => 'Save Contact',
+    'Edit Contact' => 'Edit Contact',
+     'Update Contact' => 'Update Contact',
+    'Delete Contact' => 'Delete Contact',
+    'Are you sure you want to delete this contact?' => 'Are you sure you want to delete this contact?',
+    'Cancel' => 'Cancel',
+    'Delete' => 'Delete',
+   'Edit' => 'Edit',
+];

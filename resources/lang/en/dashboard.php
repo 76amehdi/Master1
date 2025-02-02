@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'export_reports' => 'Export Reports',
+    'products_report' => 'Products Report',
+    'orders_report' => 'Orders Report',
+    'purchases_report' => 'Purchases Report',
+    'customers_report' => 'Customers Report',
+    'total_customers' => 'Total Customers',
+    'total_products' => 'Total Products',
+    'revenue' => 'Revenue',
+    'sold_products' => 'Sold Products',
+    'total_active_orders' => 'Total Active Orders',
+    'orders_delivered' => 'Orders Delivered',
+    'orders_processing' => 'Orders Processing',
+    'cancelled_orders' => 'Cancelled Orders',
+    'paid_orders' => 'Paid Orders',
+    'orders_on_the_way' => 'Orders On the Way',
+    'shipped_orders' => 'Shipped Orders',
+    'doughnut_chart' => 'Doughnut chart',
+    'bar_chart' => 'Bar chart',
+    'top_selling_products' => 'Top Selling Products',
+    'product' => 'Product',
+    'sold' => 'Sold',
+    'status' => 'Status',
+    'selling' => 'Selling',
+    'top_sellers' => 'Top Buyer',
+    'seller' => 'Buyer',
+    'orders' => 'Orders',
+    'top_seller' => 'Top Buyer',
+
+];

@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'title' => 'إعدادات الصفحة الرئيسية',
+    'dashboard' => 'لوحة التحكم',
+    'homepage_settings' => 'إعدادات الصفحة الرئيسية',
+    'update_settings' => 'تحديث الإعدادات',
+    'create_settings' => 'إنشاء الإعدادات',
+    'currency' => 'العملة',
+    'normal_delivery_price' => 'سعر التوصيل العادي',
+     'free_delivery_threshold' => 'حد التوصيل المجاني',
+    'no_settings_configured' => 'لم يتم تكوين أي إعدادات بعد.',
+    'featured_products' => 'المنتجات المميزة',
+    'add_featured_product' => 'إضافة منتج مميز',
+    'order' => 'الترتيب',
+    'edit' => 'تعديل',
+    'delete' => 'حذف',
+    'category_display' => 'عرض الفئات',
+    'add_category_display' => 'إضافة عرض للفئة',
+     'close' => 'إغلاق',
+    'save' => 'حفظ',
+    'featured_product' => 'المنتج المميز',
+    'product' => 'المنتج',
+    'display_order' => 'ترتيب العرض',
+    'image' => 'صورة',
+    'category' => 'الفئة',
+];

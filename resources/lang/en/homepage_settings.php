@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'title' => 'Homepage Settings',
+    'dashboard' => 'Dashboard',
+    'homepage_settings' => 'Homepage Settings',
+    'update_settings' => 'Update Settings',
+    'create_settings' => 'Create Settings',
+    'currency' => 'Currency',
+    'normal_delivery_price' => 'Normal Delivery Price',
+    'free_delivery_threshold' => 'Free Delivery Threshold',
+    'no_settings_configured' => 'No settings configured yet.',
+    'featured_products' => 'Featured Products',
+    'add_featured_product' => 'Add Featured Product',
+    'order' => 'Order',
+     'edit' => 'Edit',
+    'delete' => 'Delete',
+    'category_display' => 'Category Display',
+    'add_category_display' => 'Add Category Display',
+     'close' => 'Close',
+    'save' => 'Save',
+      'featured_product' => 'Featured Product',
+    'product' => 'Product',
+    'display_order' => 'Display Order',
+     'image' => 'Image',
+     'category' => 'Category',
+];
